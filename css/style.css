@@ -1,0 +1,44 @@
+@charset "UTF-8";
+h1 {
+  margin-left: 250px;
+  width: 250px;
+  border-bottom: 3px solid red;
+}
+fieldset {
+  width: 1000px;
+  margin: 0 0 0 200px;
+  padding: 0;
+}
+label,
+input {
+  margin-bottom: 20px;
+  padding-left: 20px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+span {
+  color: red;
+}
+.span {
+  margin: 30px 0 0 220px;
+}
+p {
+  margin: 0 0 0 20px;
+}
+textarea {
+  margin-left: 20px;
+}
+.form {
+  background: #fff3ba;
+}
+#submit {
+  margin-left: 30px;
+  padding-right: 15px;
+  font-weight: bold;
+  text-align: center;
+  opacity: 0.8;
+}
+#submit:hover {
+  cursor: pointer;
+  opacity: 1;
+}

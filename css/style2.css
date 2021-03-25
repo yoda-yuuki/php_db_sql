@@ -1,0 +1,16 @@
+@charset "UTF-8";
+body {
+  text-align: center;
+  background: #dce4f2;
+}
+#submit {
+  margin-top: 30px;
+  width: 100px;
+  height: 40px;
+  font-weight: bold;
+  opacity: 0.8;
+}
+#submit:hover {
+  opacity: 1;
+  cursor: pointer;
+}
